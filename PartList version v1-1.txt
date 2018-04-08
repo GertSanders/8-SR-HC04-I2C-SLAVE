@@ -1,0 +1,31 @@
+Partlist
+
+Exported from HC-SR04-SCANNER-v1-1.sch at 08/04/2018 23:13
+
+EAGLE Version 8.7.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value          Device         Package  Library      Sheet
+
+ATTINY841 ATTINY841      ATTINY84       SO14     miller       1
+C3        100nF          C-EUC0805K     C0805K   GertSanders  1
+C4        10uF           C-EUC0805K     C0805K   GertSanders  1
+I2CA                     PINHD-1X4      1X04     GertSanders  1
+I2CB                     PINHD-1X4      1X04     GertSanders  1
+ISPC      AVRISP-6       AVRISP-6       AVRISP   adafruit     1
+LED       BLUE           LED            LED_0805 TD-MySensors 1
+Q1        2N7002         MOSFET-NREFLOW SOT23    GertSanders  1
+R1        10K            R-EU_R0805     R0805    rcl          1
+R2        4K7            R-EU_R0805     R0805    rcl          1
+R3        4K7            R-EU_R0805     R0805    rcl          1
+R4        100            R-EU_R0805     R0805    rcl          1
+R5        330            R-EU_R0805     R0805    rcl          1
+S1                       PINHD-1X4      1X04     GertSanders  1
+S2                       PINHD-1X4      1X04     GertSanders  1
+S3                       PINHD-1X4      1X04     GertSanders  1
+S4                       PINHD-1X4      1X04     GertSanders  1
+S5                       PINHD-1X4      1X04     GertSanders  1
+S6                       PINHD-1X4      1X04     GertSanders  1
+S7                       PINHD-1X4      1X04     GertSanders  1
+S8                       PINHD-1X4      1X04     GertSanders  1
